@@ -16,6 +16,8 @@ public class ProyectoFinal4Ciclo {
      */
     public static void main(String[] args) {
         System.out.println("Hola Mundo");
+        System.out.println("proyectofinal4ciclo.ProyectoFinal4Ciclo.main()");
+        
     }
     
 }
