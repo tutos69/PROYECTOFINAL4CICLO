@@ -10,5 +10,5 @@ package ec.edu.ups.Modelo;
  * @author Adry Anga
  */
 public class Cliente {
-    
+    private String cedula;
 }
